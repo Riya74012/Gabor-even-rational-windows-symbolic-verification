@@ -22,12 +22,6 @@ The files in this repository provide symbolic and numerical verification of seve
 - `Conjecture_g2.mlx`  
   Numerical computations associated with the determinant condition for the family $\alpha\beta=\frac{p}{p+1}$, including the numerical evidence discussed in Section 4.
 
-## Requirements
 
-The computations were carried out in MATLAB using the Symbolic Math Toolbox.
-
-The `.mlx` files are MATLAB Live Scripts and can be opened and executed directly in MATLAB.
-
-## Reproducibility
-
-The symbolic calculations are performed using exact symbolic arithmetic whenever applicable. Numerical computations in `Conjecture_g2.mlx` are intended as numerical evidence and are not used as substitutes for the analytic proofs in the paper.
+The computations were carried out in MATLAB using the Symbolic Math Toolbox. The `.mlx` files are MATLAB Live Scripts and can be opened and executed directly in MATLAB.
+Numerical computations in `Conjecture_g2.mlx` are intended as numerical evidence and are not used as substitutes for the analytic proofs in the paper.
