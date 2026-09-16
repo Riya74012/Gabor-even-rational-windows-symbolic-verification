@@ -20,7 +20,7 @@ The files in this repository provide symbolic and numerical verification of seve
   Symbolic factorization and simplification used in Proposition 3.1, equation no (3.24), Theorem 1.4, equation no (4.2), Theorem 1.4, equation no (4.4).
 
 - `Conjecture_g2.mlx`  
-  Numerical computations associated with the determinant condition for the family \(\alpha\beta=\frac{p}{p+1}\), including the numerical evidence discussed in Section 4.
+  Numerical computations associated with the determinant condition for the family $\alpha\beta=\frac{p}{p+1}$, including the numerical evidence discussed in Section 4.
 
 ## Requirements
 
